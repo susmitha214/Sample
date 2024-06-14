@@ -1,0 +1,1 @@
+creating variables for AWS resources
